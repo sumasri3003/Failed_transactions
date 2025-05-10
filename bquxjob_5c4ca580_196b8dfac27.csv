@@ -1,0 +1,9 @@
+TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
+2,2025-05-07,5942,FAILED,HIN2,HRNagar,Gujarat,DEBIT CARD,Invalid Account Number
+15,2025-05-02,664,FAILED,HIN3,HRNagar,Gujarat,CASH,Account Blocked
+22,2025-05-05,9667,FAILED,HIN1,HRNagar,Gujarat,NEFT,Invalid Account Number
+28,2025-05-04,6446,FAILED,HIN4,HRNagar,Gujarat,CASH,Network Timeout
+171,2025-05-04,8631,FAILED,HIN6,HRNagar,Gujarat,DEBIT CARD,Account Blocked
+185,2025-05-07,8409,FAILED,HIN1,HRNagar,Gujarat,NEFT,Insufficient Funds
+211,2025-05-01,2071,FAILED,HIN5,HRNagar,Gujarat,CREDIT CARD,Technical Error
+216,2025-05-05,7205,FAILED,HIN9,HRNagar,Gujarat,CASH,Account Blocked

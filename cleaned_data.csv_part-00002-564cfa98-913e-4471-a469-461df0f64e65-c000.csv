@@ -1,0 +1,5 @@
+TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
+TXN23726,2025-05-02,5523,FAILED,MG 6,Malkaagiri,Vizag,CREDIT CARD,Insufficient Funds
+TXN39041,2025-05-07,5266,SUCCESS,KOT6,Kormangala,Gujarat,CREDIT CARD,""
+TXN47262,2025-05-06,6768,SUCCESS,HAD2,HimayatNagar,Gujarat,NEFT,""
+TXN23196,2025-05-06,6794,SUCCESS,T N1,Tadipatri,Hyderabad,DEBIT CARD,""

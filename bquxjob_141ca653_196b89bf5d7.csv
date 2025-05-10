@@ -1,6 +1,0 @@
-TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
-93,2025-05-02,9912,FAILED,ANN6,Annavaram,Hyderabad,CASH,Account Blocked
-112,2025-05-01,9905,FAILED,VIM5,VijayPur,Gujarat,NEFT,Network Timeout
-168,2025-05-01,9905,FAILED,VIM5,Bharat Nagar,Gujarat,NEFT,Network Timeout
-163,2025-05-03,9869,FAILED,ANN4,Annavaram,Hyderabad,DEBIT CARD,Account Blocked
-110,2025-05-07,9797,FAILED,T N4,Tadipatri,Hyderabad,NEFT,Exceeded Limit

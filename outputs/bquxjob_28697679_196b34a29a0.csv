@@ -1,0 +1,85 @@
+TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
+12,2025-05-03,8636,FAILED,ADY3,Alwal,Hyderabad,DEBIT CARD,Technical Error
+21,2025-05-05,2080,FAILED,ADY1,Alwal,Hyderabad,NEFT,Invalid Account Number
+24,2025-05-03,2019,FAILED,ADY8,Alwal,Hyderabad,CREDIT CARD,Insufficient Funds
+29,2025-05-05,2916,FAILED,ADY8,Alwal,Hyderabad,CASH,Invalid Account Number
+30,2025-05-04,2245,FAILED,ADY3,Alwal,Hyderabad,NEFT,Insufficient Funds
+31,2025-05-01,5798,FAILED,ADY3,Alwal,Hyderabad,NEFT,Invalid Account Number
+35,2025-05-05,3033,FAILED,ADY3,Alwal,Hyderabad,CASH,Account Blocked
+37,2025-05-06,6764,FAILED,TAM7,Tanuku,Hyderabad,NEFT,Insufficient Funds
+39,2025-05-05,8531,FAILED,TAM6,Tanuku,Hyderabad,NEFT,Insufficient Funds
+42,2025-05-02,914,FAILED,VEL8,Vilaspur,Hyderabad,CASH,Account Blocked
+43,2025-05-05,8546,FAILED,T N2,Tadipatri,Hyderabad,CREDIT CARD,Insufficient Funds
+44,2025-05-01,2331,FAILED,ANN6,Annavaram,Hyderabad,DEBIT CARD,Technical Error
+45,2025-05-02,7739,FAILED,ANN4,Annavaram,Hyderabad,DEBIT CARD,Account Blocked
+46,2025-05-02,1357,FAILED,T N2,Tadipatri,Hyderabad,CASH,Account Blocked
+50,2025-05-01,473,FAILED,TAM9,Tanuku,Hyderabad,CASH,Exceeded Limit
+52,2025-05-05,627,FAILED,T N8,Tadipatri,Hyderabad,DEBIT CARD,Exceeded Limit
+53,2025-05-05,2894,FAILED,T N5,Tadipatri,Hyderabad,DEBIT CARD,Network Timeout
+57,2025-05-04,4772,FAILED,VEL8,Vilaspur,Hyderabad,DEBIT CARD,Insufficient Funds
+58,2025-05-04,7478,FAILED,T N6,Tadipatri,Hyderabad,DEBIT CARD,Exceeded Limit
+59,2025-05-01,4230,FAILED,TAM2,Tanuku,Hyderabad,CREDIT CARD,Account Blocked
+62,2025-05-03,6549,FAILED,TAM4,Tanuku,Hyderabad,CREDIT CARD,Technical Error
+63,2025-05-01,3642,FAILED,T N9,Tadipatri,Hyderabad,CASH,Invalid Account Number
+64,2025-05-07,9321,FAILED,T N3,Tadipatri,Hyderabad,CREDIT CARD,Account Blocked
+65,2025-05-07,3344,FAILED,ANN5,Annavaram,Hyderabad,DEBIT CARD,Network Timeout
+67,2025-05-07,8553,FAILED,T N4,Tadipatri,Hyderabad,CASH,Technical Error
+68,2025-05-07,6902,FAILED,ANN6,Annavaram,Hyderabad,DEBIT CARD,Account Blocked
+70,2025-05-03,1595,FAILED,ANN4,Annavaram,Hyderabad,CASH,Account Blocked
+71,2025-05-01,9705,FAILED,ANN4,Annavaram,Hyderabad,CREDIT CARD,Network Timeout
+78,2025-05-07,8301,FAILED,VEL2,Vilaspur,Hyderabad,DEBIT CARD,Invalid Account Number
+83,2025-05-04,3046,FAILED,VEL1,Vilaspur,Hyderabad,DEBIT CARD,Network Timeout
+84,2025-05-06,8143,FAILED,TAM6,Tanuku,Hyderabad,CASH,Exceeded Limit
+86,2025-05-03,2036,FAILED,T N2,Tadipatri,Hyderabad,DEBIT CARD,Account Blocked
+87,2025-05-06,1352,FAILED,VEL4,Vilaspur,Hyderabad,NEFT,Network Timeout
+90,2025-05-05,7148,FAILED,VEL9,Vilaspur,Hyderabad,CREDIT CARD,Account Blocked
+93,2025-05-02,9912,FAILED,ANN6,Annavaram,Hyderabad,CASH,Account Blocked
+95,2025-05-04,3417,FAILED,ANN3,Annavaram,Hyderabad,NEFT,Technical Error
+98,2025-05-01,2479,FAILED,VEL8,Vilaspur,Hyderabad,NEFT,Technical Error
+100,2025-05-07,3347,FAILED,ANN7,Annavaram,Hyderabad,CASH,Technical Error
+101,2025-05-01,3716,FAILED,VEL5,Vilaspur,Hyderabad,NEFT,Account Blocked
+105,2025-05-03,7115,FAILED,VEL2,Vilaspur,Hyderabad,CASH,Account Blocked
+106,2025-05-01,7255,FAILED,T N7,Tadipatri,Hyderabad,CASH,Insufficient Funds
+107,2025-05-03,6644,FAILED,ANN1,Annavaram,Hyderabad,NEFT,Technical Error
+109,2025-05-06,8683,FAILED,T N7,Tadipatri,Hyderabad,DEBIT CARD,Exceeded Limit
+110,2025-05-07,9797,FAILED,T N4,Tadipatri,Hyderabad,NEFT,Exceeded Limit
+113,2025-05-06,7381,FAILED,TAM1,Tanuku,Hyderabad,CREDIT CARD,Technical Error
+114,2025-05-06,903,FAILED,ANN7,Annavaram,Hyderabad,CASH,Insufficient Funds
+115,2025-05-05,871,FAILED,ANN9,Annavaram,Hyderabad,CREDIT CARD,Insufficient Funds
+116,2025-05-02,7116,FAILED,ANN8,Annavaram,Hyderabad,DEBIT CARD,Exceeded Limit
+118,2025-05-01,3280,FAILED,T N8,Tadipatri,Hyderabad,CASH,Network Timeout
+120,2025-05-05,8021,FAILED,ANN4,Annavaram,Hyderabad,NEFT,Account Blocked
+123,2025-05-05,4403,FAILED,T N9,Tadipatri,Hyderabad,CASH,Exceeded Limit
+126,2025-05-02,3294,FAILED,TAM8,Tanuku,Hyderabad,CREDIT CARD,Account Blocked
+127,2025-05-04,2753,FAILED,VEL6,Vilaspur,Hyderabad,CREDIT CARD,Account Blocked
+128,2025-05-06,7335,FAILED,T N7,Tadipatri,Hyderabad,DEBIT CARD,Insufficient Funds
+130,2025-05-03,4364,FAILED,VEL6,Vilaspur,Hyderabad,CASH,Exceeded Limit
+132,2025-05-06,8500,FAILED,TAM5,Tanuku,Hyderabad,CASH,Invalid Account Number
+133,2025-05-04,2040,FAILED,TAM1,Tanuku,Hyderabad,NEFT,Invalid Account Number
+135,2025-05-01,4012,FAILED,ANN4,Annavaram,Hyderabad,NEFT,Invalid Account Number
+136,2025-05-05,7174,FAILED,TAM1,Tanuku,Hyderabad,CASH,Invalid Account Number
+137,2025-05-06,667,FAILED,T N1,Tadipatri,Hyderabad,NEFT,Insufficient Funds
+140,2025-05-04,3863,FAILED,ANN7,Annavaram,Hyderabad,CASH,Exceeded Limit
+141,2025-05-07,9472,FAILED,VEL4,Vilaspur,Hyderabad,NEFT,Invalid Account Number
+143,2025-05-01,3528,FAILED,VEL1,Vilaspur,Hyderabad,DEBIT CARD,Technical Error
+145,2025-05-02,5083,FAILED,TAM1,Tanuku,Hyderabad,CASH,Technical Error
+146,2025-05-04,1218,FAILED,VEL7,Vilaspur,Hyderabad,DEBIT CARD,Network Timeout
+150,2025-05-02,1446,FAILED,TAM3,Tanuku,Hyderabad,NEFT,Invalid Account Number
+151,2025-05-03,3656,FAILED,T N8,Tadipatri,Hyderabad,CREDIT CARD,Exceeded Limit
+154,2025-05-04,5705,FAILED,ANN7,Annavaram,Hyderabad,DEBIT CARD,Account Blocked
+155,2025-05-03,4646,FAILED,TAM7,Tanuku,Hyderabad,NEFT,Technical Error
+157,2025-05-04,2373,FAILED,TAM4,Tanuku,Hyderabad,NEFT,Technical Error
+160,2025-05-06,1096,FAILED,TAM7,Tanuku,Hyderabad,CASH,Account Blocked
+161,2025-05-04,6906,FAILED,TAM4,Tanuku,Hyderabad,CREDIT CARD,Invalid Account Number
+162,2025-05-07,2568,FAILED,TAM1,Tanuku,Hyderabad,DEBIT CARD,Invalid Account Number
+163,2025-05-03,9869,FAILED,ANN4,Annavaram,Hyderabad,DEBIT CARD,Account Blocked
+165,2025-05-01,3067,FAILED,VEL7,Vilaspur,Hyderabad,DEBIT CARD,Invalid Account Number
+167,2025-05-01,1832,FAILED,VEL1,Vilaspur,Hyderabad,NEFT,Insufficient Funds
+178,2025-05-06,3706,FAILED,ADY9,Alwal,Hyderabad,CASH,Invalid Account Number
+179,2025-05-06,2406,FAILED,ADY4,Alwal,Hyderabad,DEBIT CARD,Account Blocked
+181,2025-05-01,6740,FAILED,ADY6,Alwal,Hyderabad,CASH,Insufficient Funds
+188,2025-05-02,5600,FAILED,ADY6,Alwal,Hyderabad,DEBIT CARD,Account Blocked
+195,2025-05-03,985,FAILED,ADY9,Alwal,Hyderabad,CASH,Network Timeout
+201,2025-05-05,666,FAILED,ADY4,Alwal,Hyderabad,CREDIT CARD,Invalid Account Number
+203,2025-05-04,3484,FAILED,ADY6,Alwal,Hyderabad,CREDIT CARD,Account Blocked
+209,2025-05-01,983,FAILED,ADY2,Alwal,Hyderabad,CREDIT CARD,Exceeded Limit

@@ -1,0 +1,2 @@
+TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
+TXN23726,2025-05-02,5523,FAILED,MG 6,Malkaagiri,Vizag,CREDIT CARD,Insufficient Funds

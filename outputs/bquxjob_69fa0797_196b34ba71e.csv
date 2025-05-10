@@ -1,0 +1,69 @@
+TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
+8,2025-05-04,9256,FAILED,KOT4,Komatla,Vizag,CREDIT CARD,Insufficient Funds
+19,2025-05-04,1762,FAILED,KOR4,Kakinada,Vizag,CREDIT CARD,Network Timeout
+20,2025-05-04,9066,FAILED,KOR6,Kakinada,Vizag,CREDIT CARD,Invalid Account Number
+23,2025-05-02,3634,FAILED,MG 7,Malkaagiri,Vizag,CREDIT CARD,Invalid Account Number
+24,2025-05-03,2019,FAILED,ADY8,Alwal,Hyderabad,CREDIT CARD,Insufficient Funds
+27,2025-05-04,4789,FAILED,KOT5,Komatla,Vizag,CREDIT CARD,Account Blocked
+38,2025-05-06,6795,FAILED,VIM1,VijayPur,Gujarat,CREDIT CARD,Exceeded Limit
+41,2025-05-06,9586,FAILED,VIM6,VijayPur,Gujarat,CREDIT CARD,Technical Error
+43,2025-05-05,8546,FAILED,T N2,Tadipatri,Hyderabad,CREDIT CARD,Insufficient Funds
+48,2025-05-03,2607,FAILED,VIM1,VijayPur,Gujarat,CREDIT CARD,Exceeded Limit
+51,2025-05-05,3766,FAILED,VIM2,Bharat Nagar,Gujarat,CREDIT CARD,Account Blocked
+54,2025-05-01,4497,FAILED,VIM4,Bharat Nagar,Gujarat,CREDIT CARD,Invalid Account Number
+56,2025-05-05,887,FAILED,VIM2,Bharat Nagar,Gujarat,CREDIT CARD,Insufficient Funds
+59,2025-05-01,4230,FAILED,TAM2,Tanuku,Hyderabad,CREDIT CARD,Account Blocked
+60,2025-05-03,1061,FAILED,VIM3,Bharat Nagar,Gujarat,CREDIT CARD,Account Blocked
+61,2025-05-05,6690,FAILED,HAD4,HimayatNagar,Gujarat,CREDIT CARD,Exceeded Limit
+62,2025-05-03,6549,FAILED,TAM4,Tanuku,Hyderabad,CREDIT CARD,Technical Error
+64,2025-05-07,9321,FAILED,T N3,Tadipatri,Hyderabad,CREDIT CARD,Account Blocked
+66,2025-05-01,8631,FAILED,VIM3,VijayPur,Gujarat,CREDIT CARD,Network Timeout
+69,2025-05-02,7924,FAILED,KOT4,Kormangala,Gujarat,CREDIT CARD,Insufficient Funds
+71,2025-05-01,9705,FAILED,ANN4,Annavaram,Hyderabad,CREDIT CARD,Network Timeout
+72,2025-05-01,8631,FAILED,VIM3,Bharat Nagar,Gujarat,CREDIT CARD,Network Timeout
+73,2025-05-06,9586,FAILED,VIM6,Bharat Nagar,Gujarat,CREDIT CARD,Technical Error
+75,2025-05-03,2607,FAILED,VIM1,Bharat Nagar,Gujarat,CREDIT CARD,Exceeded Limit
+80,2025-05-05,887,FAILED,VIM2,VijayPur,Gujarat,CREDIT CARD,Insufficient Funds
+81,2025-05-02,474,FAILED,VIM7,VijayPur,Gujarat,CREDIT CARD,Invalid Account Number
+82,2025-05-01,4497,FAILED,VIM4,VijayPur,Gujarat,CREDIT CARD,Invalid Account Number
+85,2025-05-07,5817,FAILED,VIM5,Bharat Nagar,Gujarat,CREDIT CARD,Insufficient Funds
+89,2025-05-04,9256,FAILED,KOT4,Kormangala,Gujarat,CREDIT CARD,Insufficient Funds
+90,2025-05-05,7148,FAILED,VEL9,Vilaspur,Hyderabad,CREDIT CARD,Account Blocked
+91,2025-05-01,7535,FAILED,VIM7,VijayPur,Gujarat,CREDIT CARD,Invalid Account Number
+97,2025-05-07,5817,FAILED,VIM5,VijayPur,Gujarat,CREDIT CARD,Insufficient Funds
+103,2025-05-05,3766,FAILED,VIM2,VijayPur,Gujarat,CREDIT CARD,Account Blocked
+111,2025-05-03,1061,FAILED,VIM3,VijayPur,Gujarat,CREDIT CARD,Account Blocked
+113,2025-05-06,7381,FAILED,TAM1,Tanuku,Hyderabad,CREDIT CARD,Technical Error
+115,2025-05-05,871,FAILED,ANN9,Annavaram,Hyderabad,CREDIT CARD,Insufficient Funds
+117,2025-05-02,474,FAILED,VIM7,Bharat Nagar,Gujarat,CREDIT CARD,Invalid Account Number
+124,2025-05-01,7873,FAILED,HAD9,HimayatNagar,Gujarat,CREDIT CARD,Account Blocked
+126,2025-05-02,3294,FAILED,TAM8,Tanuku,Hyderabad,CREDIT CARD,Account Blocked
+127,2025-05-04,2753,FAILED,VEL6,Vilaspur,Hyderabad,CREDIT CARD,Account Blocked
+129,2025-05-07,8671,FAILED,KOT2,Kormangala,Gujarat,CREDIT CARD,Invalid Account Number
+139,2025-05-06,6795,FAILED,VIM1,Bharat Nagar,Gujarat,CREDIT CARD,Exceeded Limit
+142,2025-05-04,4789,FAILED,KOT5,Kormangala,Gujarat,CREDIT CARD,Account Blocked
+144,2025-05-02,6056,FAILED,HAD7,HimayatNagar,Gujarat,CREDIT CARD,Network Timeout
+151,2025-05-03,3656,FAILED,T N8,Tadipatri,Hyderabad,CREDIT CARD,Exceeded Limit
+153,2025-05-02,3642,FAILED,VIM2,VijayPur,Gujarat,CREDIT CARD,Technical Error
+156,2025-05-02,3642,FAILED,VIM2,Bharat Nagar,Gujarat,CREDIT CARD,Technical Error
+161,2025-05-04,6906,FAILED,TAM4,Tanuku,Hyderabad,CREDIT CARD,Invalid Account Number
+164,2025-05-01,7535,FAILED,VIM7,Bharat Nagar,Gujarat,CREDIT CARD,Invalid Account Number
+170,2025-05-07,8789,FAILED,KOR7,Kakinada,Vizag,CREDIT CARD,Technical Error
+172,2025-05-07,8671,FAILED,KOT2,Komatla,Vizag,CREDIT CARD,Invalid Account Number
+180,2025-05-07,5421,FAILED,KOR4,Kakinada,Vizag,CREDIT CARD,Invalid Account Number
+186,2025-05-07,9794,FAILED,MG 4,Malkaagiri,Vizag,CREDIT CARD,Technical Error
+191,2025-05-05,999,FAILED,BTM4,Bhimavaram,Vizag,CREDIT CARD,Insufficient Funds
+194,2025-05-06,1864,FAILED,BTM7,Bhimavaram,Vizag,CREDIT CARD,Invalid Account Number
+196,2025-05-03,801,FAILED,IND2,AnadNagar,Vizag,CREDIT CARD,Network Timeout
+201,2025-05-05,666,FAILED,ADY4,Alwal,Hyderabad,CREDIT CARD,Invalid Account Number
+202,2025-05-03,2720,FAILED,IND5,AnadNagar,Vizag,CREDIT CARD,Technical Error
+203,2025-05-04,3484,FAILED,ADY6,Alwal,Hyderabad,CREDIT CARD,Account Blocked
+204,2025-05-01,3050,FAILED,BTM4,Bhimavaram,Vizag,CREDIT CARD,Exceeded Limit
+206,2025-05-05,4023,FAILED,MG 3,Malkaagiri,Vizag,CREDIT CARD,Invalid Account Number
+208,2025-05-02,7924,FAILED,KOT4,Komatla,Vizag,CREDIT CARD,Insufficient Funds
+209,2025-05-01,983,FAILED,ADY2,Alwal,Hyderabad,CREDIT CARD,Exceeded Limit
+211,2025-05-01,2071,FAILED,HIN5,HRNagar,Gujarat,CREDIT CARD,Technical Error
+214,2025-05-04,7331,FAILED,IND6,AnadNagar,Vizag,CREDIT CARD,Insufficient Funds
+215,2025-05-04,5677,FAILED,IND1,AnadNagar,Vizag,CREDIT CARD,Network Timeout
+217,2025-05-01,5683,FAILED,MG 2,Malkaagiri,Vizag,CREDIT CARD,Network Timeout
+220,2025-05-04,2062,FAILED,MG 2,Malkaagiri,Vizag,CREDIT CARD,Invalid Account Number

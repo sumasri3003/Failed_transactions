@@ -1,0 +1,72 @@
+TransactionID,Date,Amount,Status,BranchID,BranchName,BranchCity,TransactionType,FailureReason
+2,2025-05-07,5942,FAILED,HIN2,HRNagar,Gujarat,DEBIT CARD,Invalid Account Number
+15,2025-05-02,664,FAILED,HIN3,HRNagar,Gujarat,CASH,Account Blocked
+22,2025-05-05,9667,FAILED,HIN1,HRNagar,Gujarat,NEFT,Invalid Account Number
+28,2025-05-04,6446,FAILED,HIN4,HRNagar,Gujarat,CASH,Network Timeout
+38,2025-05-06,6795,FAILED,VIM1,VijayPur,Gujarat,CREDIT CARD,Exceeded Limit
+40,2025-05-03,3118,FAILED,VIM6,Bharat Nagar,Gujarat,DEBIT CARD,Technical Error
+41,2025-05-06,9586,FAILED,VIM6,VijayPur,Gujarat,CREDIT CARD,Technical Error
+47,2025-05-02,6167,FAILED,VIM4,Bharat Nagar,Gujarat,DEBIT CARD,Invalid Account Number
+48,2025-05-03,2607,FAILED,VIM1,VijayPur,Gujarat,CREDIT CARD,Exceeded Limit
+49,2025-05-03,7709,FAILED,KOT2,Kormangala,Gujarat,NEFT,Insufficient Funds
+51,2025-05-05,3766,FAILED,VIM2,Bharat Nagar,Gujarat,CREDIT CARD,Account Blocked
+54,2025-05-01,4497,FAILED,VIM4,Bharat Nagar,Gujarat,CREDIT CARD,Invalid Account Number
+55,2025-05-07,3872,FAILED,HAD2,HimayatNagar,Gujarat,NEFT,Insufficient Funds
+56,2025-05-05,887,FAILED,VIM2,Bharat Nagar,Gujarat,CREDIT CARD,Insufficient Funds
+60,2025-05-03,1061,FAILED,VIM3,Bharat Nagar,Gujarat,CREDIT CARD,Account Blocked
+61,2025-05-05,6690,FAILED,HAD4,HimayatNagar,Gujarat,CREDIT CARD,Exceeded Limit
+66,2025-05-01,8631,FAILED,VIM3,VijayPur,Gujarat,CREDIT CARD,Network Timeout
+69,2025-05-02,7924,FAILED,KOT4,Kormangala,Gujarat,CREDIT CARD,Insufficient Funds
+72,2025-05-01,8631,FAILED,VIM3,Bharat Nagar,Gujarat,CREDIT CARD,Network Timeout
+73,2025-05-06,9586,FAILED,VIM6,Bharat Nagar,Gujarat,CREDIT CARD,Technical Error
+74,2025-05-04,3206,FAILED,KOT2,Kormangala,Gujarat,DEBIT CARD,Invalid Account Number
+75,2025-05-03,2607,FAILED,VIM1,Bharat Nagar,Gujarat,CREDIT CARD,Exceeded Limit
+76,2025-05-05,7303,FAILED,HAD8,HimayatNagar,Gujarat,DEBIT CARD,Invalid Account Number
+77,2025-05-05,8153,FAILED,HAD5,HimayatNagar,Gujarat,CASH,Network Timeout
+79,2025-05-04,6761,FAILED,HAD7,HimayatNagar,Gujarat,NEFT,Exceeded Limit
+80,2025-05-05,887,FAILED,VIM2,VijayPur,Gujarat,CREDIT CARD,Insufficient Funds
+81,2025-05-02,474,FAILED,VIM7,VijayPur,Gujarat,CREDIT CARD,Invalid Account Number
+82,2025-05-01,4497,FAILED,VIM4,VijayPur,Gujarat,CREDIT CARD,Invalid Account Number
+85,2025-05-07,5817,FAILED,VIM5,Bharat Nagar,Gujarat,CREDIT CARD,Insufficient Funds
+88,2025-05-01,3298,FAILED,KOT7,Kormangala,Gujarat,CASH,Technical Error
+89,2025-05-04,9256,FAILED,KOT4,Kormangala,Gujarat,CREDIT CARD,Insufficient Funds
+91,2025-05-01,7535,FAILED,VIM7,VijayPur,Gujarat,CREDIT CARD,Invalid Account Number
+92,2025-05-05,3249,FAILED,VIM2,VijayPur,Gujarat,CASH,Account Blocked
+94,2025-05-05,3774,FAILED,HAD2,HimayatNagar,Gujarat,CASH,Technical Error
+96,2025-05-03,2283,FAILED,VIM7,VijayPur,Gujarat,NEFT,Exceeded Limit
+97,2025-05-07,5817,FAILED,VIM5,VijayPur,Gujarat,CREDIT CARD,Insufficient Funds
+99,2025-05-07,1583,FAILED,VIM7,Bharat Nagar,Gujarat,DEBIT CARD,Invalid Account Number
+102,2025-05-01,1832,FAILED,KOT1,Kormangala,Gujarat,NEFT,Network Timeout
+103,2025-05-05,3766,FAILED,VIM2,VijayPur,Gujarat,CREDIT CARD,Account Blocked
+104,2025-05-01,140,FAILED,HAD5,HimayatNagar,Gujarat,CASH,Exceeded Limit
+108,2025-05-07,6496,FAILED,HAD6,HimayatNagar,Gujarat,NEFT,Invalid Account Number
+111,2025-05-03,1061,FAILED,VIM3,VijayPur,Gujarat,CREDIT CARD,Account Blocked
+112,2025-05-01,9905,FAILED,VIM5,VijayPur,Gujarat,NEFT,Network Timeout
+117,2025-05-02,474,FAILED,VIM7,Bharat Nagar,Gujarat,CREDIT CARD,Invalid Account Number
+119,2025-05-03,3118,FAILED,VIM6,VijayPur,Gujarat,DEBIT CARD,Technical Error
+121,2025-05-02,6167,FAILED,VIM4,VijayPur,Gujarat,DEBIT CARD,Invalid Account Number
+122,2025-05-03,3649,FAILED,VIM5,VijayPur,Gujarat,DEBIT CARD,Technical Error
+124,2025-05-01,7873,FAILED,HAD9,HimayatNagar,Gujarat,CREDIT CARD,Account Blocked
+125,2025-05-07,8537,FAILED,KOT6,Kormangala,Gujarat,DEBIT CARD,Exceeded Limit
+129,2025-05-07,8671,FAILED,KOT2,Kormangala,Gujarat,CREDIT CARD,Invalid Account Number
+131,2025-05-03,2283,FAILED,VIM7,Bharat Nagar,Gujarat,NEFT,Exceeded Limit
+134,2025-05-05,3249,FAILED,VIM2,Bharat Nagar,Gujarat,CASH,Account Blocked
+138,2025-05-01,249,FAILED,HAD9,HimayatNagar,Gujarat,DEBIT CARD,Exceeded Limit
+139,2025-05-06,6795,FAILED,VIM1,Bharat Nagar,Gujarat,CREDIT CARD,Exceeded Limit
+142,2025-05-04,4789,FAILED,KOT5,Kormangala,Gujarat,CREDIT CARD,Account Blocked
+144,2025-05-02,6056,FAILED,HAD7,HimayatNagar,Gujarat,CREDIT CARD,Network Timeout
+147,2025-05-07,1583,FAILED,VIM7,VijayPur,Gujarat,DEBIT CARD,Invalid Account Number
+148,2025-05-05,5133,FAILED,KOT6,Kormangala,Gujarat,CASH,Exceeded Limit
+149,2025-05-07,1256,FAILED,KOT9,Kormangala,Gujarat,CASH,Invalid Account Number
+152,2025-05-05,7635,FAILED,KOT6,Kormangala,Gujarat,CASH,Exceeded Limit
+153,2025-05-02,3642,FAILED,VIM2,VijayPur,Gujarat,CREDIT CARD,Technical Error
+156,2025-05-02,3642,FAILED,VIM2,Bharat Nagar,Gujarat,CREDIT CARD,Technical Error
+158,2025-05-05,1675,FAILED,KOT1,Kormangala,Gujarat,DEBIT CARD,Exceeded Limit
+159,2025-05-07,1094,FAILED,KOT6,Kormangala,Gujarat,CASH,Network Timeout
+164,2025-05-01,7535,FAILED,VIM7,Bharat Nagar,Gujarat,CREDIT CARD,Invalid Account Number
+166,2025-05-03,3649,FAILED,VIM5,Bharat Nagar,Gujarat,DEBIT CARD,Technical Error
+168,2025-05-01,9905,FAILED,VIM5,Bharat Nagar,Gujarat,NEFT,Network Timeout
+171,2025-05-04,8631,FAILED,HIN6,HRNagar,Gujarat,DEBIT CARD,Account Blocked
+185,2025-05-07,8409,FAILED,HIN1,HRNagar,Gujarat,NEFT,Insufficient Funds
+211,2025-05-01,2071,FAILED,HIN5,HRNagar,Gujarat,CREDIT CARD,Technical Error
+216,2025-05-05,7205,FAILED,HIN9,HRNagar,Gujarat,CASH,Account Blocked
